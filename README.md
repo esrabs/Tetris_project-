@@ -47,5 +47,5 @@ The right panel shows the score and the next tetromino.
 You may add screenshots or a GIF of the gameplay here.
 
 ## Authors
-Project developed by Your Name  
+Project developed by Esrae Ben Selma  
 Part of the University Informatics curriculum.
